@@ -1,0 +1,4 @@
+﻿  fps.cpp
+C:\Users\10194\Desktop\testField\VS_testField\ConsoleFPS\fps.cpp(19,29): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\10194\Desktop\testField\VS_testField\ConsoleFPS\fps.cpp(149,26): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  ConsoleFPS.vcxproj -> C:\Users\10194\Desktop\testField\VS_testField\ConsoleFPS\Debug\ConsoleFPS.exe
